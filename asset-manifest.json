@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cf0ebc31.chunk.css",
+    "main.js": "/portfolio/static/js/main.efb381ca.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.efb381ca.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.96cc542e.chunk.js": "/portfolio/static/js/2.96cc542e.chunk.js",
+    "static/js/2.96cc542e.chunk.js.map": "/portfolio/static/js/2.96cc542e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6017d92e71f74a9e3e8fe01463cd4989.js": "/portfolio/precache-manifest.6017d92e71f74a9e3e8fe01463cd4989.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.cf0ebc31.chunk.css.map": "/portfolio/static/css/main.cf0ebc31.chunk.css.map",
+    "static/js/2.96cc542e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.96cc542e.chunk.js.LICENSE.txt",
+    "static/media/perfil.jpeg": "/portfolio/static/media/perfil.844f7c8a.jpeg",
+    "static/media/reactIcon.png": "/portfolio/static/media/reactIcon.638be909.png",
+    "static/media/sieel.png": "/portfolio/static/media/sieel.2caf3d96.png",
+    "static/media/telegram.png": "/portfolio/static/media/telegram.f0c36db8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.96cc542e.chunk.js",
+    "static/css/main.cf0ebc31.chunk.css",
+    "static/js/main.efb381ca.chunk.js"
+  ]
+}
