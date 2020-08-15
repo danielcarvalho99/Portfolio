@@ -1,0 +1,25 @@
+h2{
+
+    font-family:sans-serif;
+    text-align: center;
+
+}
+
+.Techs{
+
+    display: flexbox;
+    width: 100%;
+
+}
+
+#node,#react,#python{
+    
+    width: 130px;
+}
+
+#react{
+
+    margin-left: 35%;
+
+}
+
