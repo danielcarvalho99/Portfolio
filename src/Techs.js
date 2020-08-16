@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactIcon from './Images/reactIcon.png';
+import ReactIcon from './Images/reactIcon.webp';
 import NodejsIcon from './Images/nodejsIcon.png';
 import PythonIcon from './Images/python.png'
 import './Techs.css';

@@ -2,14 +2,20 @@ h2{
 
     font-family:sans-serif;
     text-align: center;
+    margin-top: 50px;
 
 }
 
 .projectItem{
 
-   
+    width: 45%;
+    float: left;
+    border: grey 2px solid;
+    border-radius: 8px;
+    margin:30px;
 
 }
+
 
 h4{
 
@@ -20,7 +26,11 @@ h4{
 
 #projectImg{
 
-    width:400px;
-    margin-left: 35%;
+    width: 300px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
 
 }

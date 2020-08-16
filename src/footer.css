@@ -1,11 +1,20 @@
-#youtube,#facebook{
+*{
+    background: rgb(243, 243, 243);
+}
+.footer{
 
-    width:60px
+    width: 50%;
+    margin: auto;
 
 }
 
 #youtube{
 
-    margin-left:45%;
+    margin-left: 45%;
+}
+
+#youtube,#facebook{
+
+    margin-top: 100px;
 
 }
