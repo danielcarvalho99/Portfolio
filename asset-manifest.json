@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cf0ebc31.chunk.css",
-    "main.js": "/portfolio/static/js/main.efb381ca.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.efb381ca.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.5a393673.chunk.css",
+    "main.js": "/portfolio/static/js/main.c3ebc0d5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c3ebc0d5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.96cc542e.chunk.js": "/portfolio/static/js/2.96cc542e.chunk.js",
-    "static/js/2.96cc542e.chunk.js.map": "/portfolio/static/js/2.96cc542e.chunk.js.map",
+    "static/js/2.ede170f7.chunk.js": "/portfolio/static/js/2.ede170f7.chunk.js",
+    "static/js/2.ede170f7.chunk.js.map": "/portfolio/static/js/2.ede170f7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6017d92e71f74a9e3e8fe01463cd4989.js": "/portfolio/precache-manifest.6017d92e71f74a9e3e8fe01463cd4989.js",
+    "precache-manifest.0557768217a19f9900c33dbcbbac1d81.js": "/portfolio/precache-manifest.0557768217a19f9900c33dbcbbac1d81.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.cf0ebc31.chunk.css.map": "/portfolio/static/css/main.cf0ebc31.chunk.css.map",
-    "static/js/2.96cc542e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.96cc542e.chunk.js.LICENSE.txt",
+    "static/css/main.5a393673.chunk.css.map": "/portfolio/static/css/main.5a393673.chunk.css.map",
+    "static/js/2.ede170f7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ede170f7.chunk.js.LICENSE.txt",
     "static/media/perfil.jpeg": "/portfolio/static/media/perfil.844f7c8a.jpeg",
-    "static/media/reactIcon.png": "/portfolio/static/media/reactIcon.638be909.png",
+    "static/media/python.png": "/portfolio/static/media/python.45e67e15.png",
+    "static/media/reactIcon.webp": "/portfolio/static/media/reactIcon.4603f0d1.webp",
     "static/media/sieel.png": "/portfolio/static/media/sieel.2caf3d96.png",
-    "static/media/telegram.png": "/portfolio/static/media/telegram.f0c36db8.png"
+    "static/media/telegram.png": "/portfolio/static/media/telegram.d7a1dab2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.96cc542e.chunk.js",
-    "static/css/main.cf0ebc31.chunk.css",
-    "static/js/main.efb381ca.chunk.js"
+    "static/js/2.ede170f7.chunk.js",
+    "static/css/main.5a393673.chunk.css",
+    "static/js/main.c3ebc0d5.chunk.js"
   ]
 }
