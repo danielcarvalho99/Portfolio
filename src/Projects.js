@@ -14,9 +14,11 @@ const projetos = ProjectsData.map(
 
 return(
 
-       <div>
+       <div id="projects">
            <h2>Projetos</h2>
-           {projetos}
+           <div id="projectSpace">
+                {projetos}
+           </div>
        </div>
         
         );

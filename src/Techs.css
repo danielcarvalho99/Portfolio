@@ -2,14 +2,16 @@ h2{
 
     font-family:sans-serif;
     text-align: center;
+    margin-top: 200px;
 
 }
 
 .techs{
 
   width: 50%;
-  margin: auto;
+  margin-top: 50px;
   margin-bottom: 50px;
+  margin-left: 35%;
 
 }
 
@@ -19,6 +21,7 @@ h2{
     width: 120px;
     margin-right: 20px;
     border-radius: 50%;
+    border:rgb(155, 155, 155) 1px solid; 
 }
 
 #node:hover,#react:hover,#python:hover{
@@ -27,11 +30,6 @@ h2{
     width: 130px;
 }
 
-#react{
-
-    margin-left: 20%;
-
-}
 
 
 

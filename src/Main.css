@@ -1,3 +1,8 @@
+.main{
+
+    margin-top: 50px;
+}
+
 #profile{
 
     width: 20%;
@@ -8,6 +13,10 @@
 }
 
 p{
-
+    width: 80%;
+    margin: auto;
+    margin-top:30px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
     text-align: center;
 }

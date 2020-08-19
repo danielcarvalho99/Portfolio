@@ -8,7 +8,7 @@ export default function Techs(){
 
 return(
 
-    <div>
+    <div id="technologies">
         <h2>Tecnologias</h2>
 
         <div className="techs">
